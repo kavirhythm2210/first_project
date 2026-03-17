@@ -1,0 +1,184 @@
+- link "Citigroup.com home":
+  - /url: /global
+- list:
+  - listitem:
+    - link "About Us":
+      - /url: /global/about-us
+      - heading "About Us" [level=2]
+    - list:
+      - listitem:
+        - link "Strategy":
+          - /url: /global/about-us/strategy
+      - listitem:
+        - link "Leadership":
+          - /url: /global/about-us/leadership
+      - listitem:
+        - link "Global Presence":
+          - /url: /global/about-us/global-presence
+      - listitem:
+        - link "Heritage":
+          - /url: /global/about-us/heritage
+      - listitem:
+        - link "People, Engagement & Inclusion":
+          - /url: /global/about-us/people-engagement-inclusion
+    - list:
+      - listitem:
+        - link "Careers":
+          - /url: https://jobs.citi.com/
+          - img "New Window"
+          - text: ""
+      - listitem:
+        - link "Alumni":
+          - /url: https://alumni.citi.com/
+          - img "New Window"
+          - text: ""
+      - listitem:
+        - link "Fraud & Security Awareness":
+          - /url: " https://citicards.citi.com/cbol/fraudprevention"
+          - img "New Window"
+          - text: ""
+      - listitem:
+        - link "Contact Us":
+          - /url: /global/contact-us
+      - listitem:
+        - link "Regulatory Disclosures":
+          - /url: /global/disclosures
+  - listitem:
+    - link "Businesses":
+      - /url: /global/businesses
+      - heading "Businesses" [level=2]
+    - list:
+      - listitem:
+        - link "Services":
+          - /url: /global/businesses/services
+      - listitem:
+        - link "Markets":
+          - /url: /global/businesses/markets
+      - listitem:
+        - link "Banking and International":
+          - /url: /global/businesses/banking-and-international
+      - listitem:
+        - link "Wealth":
+          - /url: /global/businesses/wealth
+      - listitem:
+        - link "U.S. Personal Banking":
+          - /url: /global/businesses/us-personal-banking
+  - listitem:
+    - link "Our Impact":
+      - /url: /global/our-impact
+      - heading "Our Impact" [level=2]
+    - list:
+      - listitem:
+        - link "Sustainability":
+          - /url: /global/our-impact/sustainability
+      - listitem:
+        - link "Strengthening Community":
+          - /url: /global/our-impact/strengthening-community
+  - listitem:
+    - link "News":
+      - /url: /global/news
+      - heading "News" [level=2]
+    - list:
+      - listitem:
+        - link "Press Releases":
+          - /url: /global/news/press-release
+      - listitem:
+        - link "Perspectives":
+          - /url: /global/news/perspectives
+      - listitem:
+        - link "Events":
+          - /url: /global/news/events
+      - listitem:
+        - link "Media Resources":
+          - /url: /global/news/media-resources
+    - link "INSIGHTS":
+      - /url: /global/insights/citi-institute
+      - heading "INSIGHTS" [level=2]
+    - list:
+      - listitem:
+        - link "Citi Institute":
+          - /url: /global/insights/citi-institute
+      - listitem:
+        - link "Citi Research":
+          - /url: /global/insights/research
+      - listitem:
+        - link "All Insights":
+          - /url: /global/insights/all
+  - listitem:
+    - link "Investors":
+      - /url: /global/investors
+      - heading "Investors" [level=2]
+    - list:
+      - listitem:
+        - link "Quarterly Earnings":
+          - /url: /global/investors/quarterly-earnings
+      - listitem:
+        - link "Events and Presentations":
+          - /url: /global/investors/events-and-presentations
+      - listitem:
+        - link "Annual Reports and Proxy Statements":
+          - /url: /global/investors/annual-reports-and-proxy-statements
+      - listitem:
+        - link "SEC Filings":
+          - /url: /global/investors/sec-filings
+      - listitem:
+        - link "Other Regulatory Filings":
+          - /url: /global/investors/other-regulatory-filings
+      - listitem:
+        - link "Fixed Income Investor Relations":
+          - /url: /global/investors/fixed-income-investor-relations
+      - listitem:
+        - link "Stockholder Services":
+          - /url: /global/investors/stockholder-services
+      - listitem:
+        - link "Corporate Governance":
+          - /url: /global/investors/corporate-governance
+      - listitem:
+        - link "Sustainability for Investors":
+          - /url: /global/investors/sustainability-for-investors
+      - listitem:
+        - link "Investor Contacts":
+          - /url: /global/investors/investor-contacts
+- list:
+  - listitem:
+    - link "Terms":
+      - /url: /global/terms
+  - listitem:
+    - link "Privacy":
+      - /url: /global/privacy/citigroup
+  - listitem:
+    - link "Cookie Policy":
+      - /url: /global/institutional-clients/cookiepolicy
+  - listitem:
+    - dialog "Cookie Preferences"
+  - listitem:
+    - link "Notice at Collection":
+      - /url: /global/privacy/citigroup#a
+  - listitem:
+    - link "CA Privacy Hub":
+      - /url: https://online.citi.com/dataprivacyhub
+  - listitem:
+    - link "Accessibility":
+      - /url: https://www.citi.com/accessibility
+  - listitem:
+    - link "Suppliers":
+      - /url: /global/suppliers
+  - listitem:
+    - link "Ethics Hotline":
+      - /url: /global/ethics-hotline
+- list:
+  - listitem:
+    - link "Share on Twitter":
+      - /url: https://twitter.com/Citi
+  - listitem:
+    - link "Share on Facebook":
+      - /url: http://www.facebook.com/citi
+  - listitem:
+    - link "Share on Youtube":
+      - /url: http://www.youtube.com/citi
+  - listitem:
+    - link "Share on LinkedIn":
+      - /url: http://www.linkedin.com/company/citi
+  - listitem:
+    - link "Share on Instagram":
+      - /url: http://instagram.com/citi

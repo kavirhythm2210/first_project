@@ -1,0 +1,14 @@
+- link "Citigroup.com Homepage":
+  - /url: /global
+  - img "Citigroup.com Homepage"
+- navigation:
+  - list:
+    - listitem: About Us
+    - listitem: Businesses
+    - listitem: Our Impact
+    - listitem: News
+    - listitem: Insights
+    - listitem: Investors
+    - listitem: Careers
+- img "search"
+- text: My Account
